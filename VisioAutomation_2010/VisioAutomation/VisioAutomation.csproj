@@ -236,9 +236,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="Visio2013.PrimaryInteropAssembly">
       <Version>1.0.0.4</Version>
     </PackageReference>
